@@ -1,0 +1,8 @@
+# Site settings
+title: José Vitor Novaes Moreira
+description: PokemonCenter
+keywords: professor, , R, matemática
+author: IMG_FSB
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://fsbmat-ufv.github.io/#" # the base hostname & protocol for your site
+permalink: /:collection/:path/
